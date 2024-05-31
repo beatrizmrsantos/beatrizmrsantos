@@ -1,20 +1,21 @@
 ## Hi there 👋 I'm Beatriz
 
-🎓 Master's degree in Computer Science & Engineering at: <br>
-<tab><img
-  src="https://flagcdn.com/16x12/pt.png"
-  srcset="https://flagcdn.com/32x24/pt.png 2x,
-    https://flagcdn.com/48x36/pt.png 3x"
-  width="16"
-  height="12"
-  alt="Portugal"> NOVA School of Science and Technology in Portugal <br>
-<tab><img
-  src="https://flagcdn.com/16x12/de.png"
-  srcset="https://flagcdn.com/32x24/de.png 2x,
-    https://flagcdn.com/48x36/de.png 3x"
-  width="16"
-  height="12"
-  alt="Germany"> Technische Universität Dresden in Germany <br>
+🎓 Master's degree in Computer Science & Engineering at:
+    <br>
+    <img
+      src="https://flagcdn.com/16x12/pt.png"
+      srcset="https://flagcdn.com/32x24/pt.png 2x,
+        https://flagcdn.com/48x36/pt.png 3x"
+      width="16"
+      height="12"
+      alt="Portugal"> NOVA School of Science and Technology in Portugal <br>
+    <img
+      src="https://flagcdn.com/16x12/de.png"
+      srcset="https://flagcdn.com/32x24/de.png 2x,
+        https://flagcdn.com/48x36/de.png 3x"
+      width="16"
+      height="12"
+      alt="Germany"> Technische Universität Dresden in Germany <br>
 
 <div style="display: inline-block"><br>
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170">
