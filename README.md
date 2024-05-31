@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Beatriz
 
 🎓 Master's degree in Computer Science & Engineering at: <br>
-<img
+<tab><img
   src="https://flagcdn.com/16x12/pt.png"
   srcset="https://flagcdn.com/32x24/pt.png 2x,
     https://flagcdn.com/48x36/pt.png 3x"
   width="16"
   height="12"
   alt="Portugal"> NOVA School of Science and Technology in Portugal <br>
-<img
+<tab><img
   src="https://flagcdn.com/16x12/de.png"
   srcset="https://flagcdn.com/32x24/de.png 2x,
     https://flagcdn.com/48x36/de.png 3x"
