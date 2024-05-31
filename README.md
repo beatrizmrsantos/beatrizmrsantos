@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Beatriz
 
 🎓 Master's degree in Computer Science & Engineering at: <br>
-<img src="https://emojicdn.elk.sh/pt" width="20" height="20"> NOVA School of Science and Technology in Portugal <br>
-<img src="https://emojicdn.elk.sh/de" width="20" height="20"> Technische Universität Dresden in Germany <br>
-<br>
+<span>&#x1f1f5;&#x1f1f9;</span> NOVA School of Science and Technology in Portugal <br>
+<span>&#x1f1e9;&#x1f1ea;</span> Technische Universität Dresden in Germany <br>
 
 <div style="display: inline-block"><br>
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170">
@@ -24,9 +23,10 @@
 </div>
 
 <br>
-<br>
 
-**Find me at:** <br>
+**Find me at:** 
+<br>
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-beatriz-santos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmr.santos@campus.fct.unl.pt)
 
