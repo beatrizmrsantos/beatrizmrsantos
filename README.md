@@ -24,10 +24,16 @@
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a><a href="https://devdocs.io/javascript/" >
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      </a><a href="https://www.typescriptlang.org/">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </a><a href="https://react.dev/learn" >
     <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
   </a><a href="https://dart.dev/guides" >
     <img align="center" alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg">
+  </a><a href="https://angular.io/">
+    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    </a><a href="https://nodejs.org/">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a><a href="https://www.mysql.com/" >
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a><a href="https://www.docker.com/get-started" >
