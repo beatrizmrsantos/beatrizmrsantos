@@ -1,51 +1,41 @@
-## Hi there 👋 I'm Beatriz
+# 👋 Hi, I'm Beatriz Santos
 
-🎓 Master's degree in Computer Science & Engineering at:
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://flagcdn.com/16x12/pt.png"
-    srcset="https://flagcdn.com/32x24/pt.png 2x,
-    https://flagcdn.com/48x36/pt.png 3x"
-    width="16"
-    height="12"
-    alt="Portugal"> NOVA School of Science and Technology, Portugal <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://flagcdn.com/16x12/de.png"
-    srcset="https://flagcdn.com/32x24/de.png 2x,
-    https://flagcdn.com/48x36/de.png 3x"
-    width="16"
-    height="12"
-    alt="Germany"> Technische Universität Dresden, Germany <br>
+Full Stack Software Engineer with a Master’s degree in Computer Science and Engineering, specializing in building scalable web, mobile, and cloud-based applications. I focus on frontend and backend systems, APIs, and cross-platform mobile development, with experience delivering enterprise and government-scale software.
 
-<div style="display: inline-block"><br>
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </a><a href="https://docs.oracle.com/en/java/javase/19/docs/api/index.html" >
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </a><a href="https://devdocs.io/javascript/" >
-    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      </a><a href="https://www.typescriptlang.org/">
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  </a><a href="https://react.dev/learn" >
-    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
-  </a><a href="https://dart.dev/guides" >
-    <img align="center" alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg">
-  </a><a href="https://angular.io/">
-    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    </a><a href="https://nodejs.org/">
-    <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  </a><a href="https://www.mysql.com/" >
-    <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </a><a href="https://www.docker.com/get-started" >
-    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  </a>
-</div>
+I’ve worked across the full software development lifecycle — from architecture and design to implementation, deployment, and production support — building secure and scalable systems used by thousands to millions of users.
 
-<br>
-<br>
+---
 
-**Find me at:** 
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-beatriz-santos/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmr.santos@campus.fct.unl.pt)
+## ⚙️ Tech Stack
 
+**Backend:** Java, Spring Boot, Node.js, REST APIs, Microservices  
+**Frontend:** React, JavaScript, TypeScript, Angular, HTML, CSS  
+**Mobile:** React Native, Flutter, Kotlin, Swift  
+**Databases:** SQL, MySQL, MongoDB  
+**Cloud & DevOps:** Microsoft Azure, Google Cloud Platform (GCP), Docker, Kubernetes, CI/CD  
+**Tools:** Git, GitHub, JUnit, Mockito  
+
+---
+
+## 🎯 What I'm looking for
+Opportunities across Europe in
+
+Full Stack Software Engineer | Backend Engineer | Frontend Engineer | Mobile Developer  
+
+---
+
+## 🚀 Featured Experience
+
+- Large-scale government digital platforms (Portuguese Tax Authority – 18M+ users; Embassy of Cape Verde – 50K+ users), delivering secure citizen-facing and enterprise-grade systems  
+- Design and development of a cross-platform mobile authentication system built in Flutter, incorporating biometric authentication and extraction, digital signatures, and real-time video communication via WebRTC
+- Full-stack web and mobile developments across React, React Native, JavaScript, TypeScript, Java, Spring Boot, and SQL, with cloud deployment and containerization using Docker on Microsoft Azure and Google Cloud Platform
+
+---
+
+## 📫 Contact
+
+- Email: beatrizmrsantos@gmail.com  
+- LinkedIn: [linkedin.com/in/-beatriz-santos](https://www.linkedin.com/in/-beatriz-santos/)
+- GitHub: [github.com/beatrizmrsantos](https://github.com/beatrizmrsantos)
+- Personal Website: [beatriz-santos-website.vercel.app](https://beatriz-santos-website.vercel.app/)
+  
